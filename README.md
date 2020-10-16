@@ -1,5 +1,11 @@
 # 🔧Procurement Construction System
 
+## Languages
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
+![HTML](https://img.shields.io/badge/Language-HTML-green)
+![CSS](https://img.shields.io/badge/Language-CSS-blue)
+
 ## Configurations
 
 ### step 1
