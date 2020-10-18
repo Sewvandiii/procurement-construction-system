@@ -46,6 +46,6 @@ Open http://localhost:3000 to view it in the browser.
 
 ## MongoDB Database Collections and Documents
 
-<img width="700" alt="Database - task" src="https://user-images.githubusercontent.com/61576355/96375109-b1c14f00-1194-11eb-8b19-b060cea27ae4.PNG">
-<img width="700" alt="Databse - tasklists" src="https://user-images.githubusercontent.com/61576355/96375111-b2f27c00-1194-11eb-8c23-c883448dd0d5.PNG">
+<img width="450" alt="Database - task" src="https://user-images.githubusercontent.com/61576355/96375109-b1c14f00-1194-11eb-8b19-b060cea27ae4.PNG">&nbsp;&nbsp;&nbsp;
+<img width="450" alt="Databse - tasklists" src="https://user-images.githubusercontent.com/61576355/96375111-b2f27c00-1194-11eb-8c23-c883448dd0d5.PNG">
 
