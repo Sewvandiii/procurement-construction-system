@@ -1,4 +1,4 @@
-# 🔧 CSSE - Procurement Construction System - Year 3 Semester 2
+# 🔧 CSSE - Procurement Construction System
 
 ## Languages
 
